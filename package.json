@@ -1,0 +1,21 @@
+{
+  "name": "earthy-tones",
+  "displayName": "Earthy Tones",
+  "description": "Dark VSCode theme based on dark grayish greens",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Earthy Tones",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Earthy Tones-color-theme.json"
+      }
+    ]
+  }
+}
