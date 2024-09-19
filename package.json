@@ -2,12 +2,12 @@
   "name": "earthy-tones",
   "publisher": "maherea",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/ethanamaher/earthytones-vscode"
-    },
+    "type": "git",
+    "url": "https://github.com/ethanamaher/earthytones-vscode"
+  },
   "displayName": "Earthy Tones",
   "description": "Dark VSCode theme based on dark grayish greens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.93.0"
   },
