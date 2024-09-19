@@ -6,4 +6,4 @@ I have mainly changed background and syntax colors, while leaving certain editor
 
 If you don't like certain choices made, feel free to customize it to your own liking.
 
-![Sample Image]("https://github.com/ethanamaher/earthytones-vscode/tree/main/images/Sample.jpg?raw=true")
+![https://github.com/ethanamaher/earthytones-vscode/tree/main/images/Sample.jpg?raw=true](https://github.com/ethanamaher/earthytones-vscode/blob/main/images/Sample.png)
